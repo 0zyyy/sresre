@@ -305,3 +305,9 @@ header.headr .h1 {
 .img-dpt:hover {
     color: #ffcb3a;
 }
+
+.icont {
+    text-decoration: none;
+    margin: 0 20px;
+    color: gray;
+}
